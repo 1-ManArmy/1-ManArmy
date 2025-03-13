@@ -1,10 +1,10 @@
-# Hi there, I'm Chaudhary AI 👋
+# Hi Underworld, We're Professor & Johnny are Professor Johnny=Me 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chaudharyai&color=blue)
 
 ## About Me
 
-I am an AI enthusiast and a passionate developer. I enjoy working on AI projects and contributing to open-source communities.
+### I am an AI enthusiast and a passionate developer. I enjoy working on AI projects and contributing to open-source communities.
 
 🚀 AI | Cybersecurity | NeuroTech | Ethical Hacking  
 🧠 I talk to AI. It listens. It learns. It obeys.  
