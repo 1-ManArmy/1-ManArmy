@@ -5,8 +5,6 @@
 ---
 # 🌑 The Phantom Manifest
 
-![Shadow Background](https://github.com/YOUR-USERNAME/YOUR-REPO/raw/main/YOUR-IMAGE.png)
-
 ## 🌟 The Ghost They Fear, The Echo They Follow
 
 > **⚡ The Mind Unshackled** — A prisoner of nothing, a master of all.  
