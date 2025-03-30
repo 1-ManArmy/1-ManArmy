@@ -1,6 +1,6 @@
 # **🚀 Hi Underworld, We Are Professor & Johnny = "Professor Johnny" 👋**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=chaudharyai&color=red)  
+![Profile Views](https://komarev.com/ghpvc/?username=1-ManArmy&color=red)  
 
 ---
 # 🌑 The Phantom Manifest
@@ -75,11 +75,11 @@
 
 ## **📊 GitHub Stats**  
 
-![Chaudhary AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaudharyai&show_icons=true&theme=tokyonight)  
+![Chaudhary AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-ManArmy&show_icons=true&theme=tokyonight)  
 
 ## **🔥 Top Languages**  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharyai&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-ManArmy&layout=compact&theme=tokyonight)  
 
 ---
 
