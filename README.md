@@ -1,4 +1,4 @@
-# Professor Johnny — 1-Man Army
+# Professor Johnny — 1-Man Army                               ![Profile Views](https://komarev.com/ghpvc/?username=1-ManArmy\&color=red)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hello,+I%27m+Professor+Johnny;AI+Engineer+•+Security+Researcher;Building+with+precision+and+integrity" alt="Typing SVG" />
